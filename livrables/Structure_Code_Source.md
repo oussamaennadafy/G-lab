@@ -1,6 +1,6 @@
 # Codes Sources Structurés — Projet G-Lab
 
-**Réalisé par :** Abdallah ATGUIRI  
+**Réalisé par :** Oussama Ennadafy  
 **Date :** Juillet 2026
 
 ## Arborescence du projet

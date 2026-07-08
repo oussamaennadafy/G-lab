@@ -1,7 +1,7 @@
 ---
 title: "Rapport sur la Conception Orientée Objet"
 subtitle: "Projet G-Lab — Gestion du parc de laboratoire technologique"
-author: "Abdallah ATGUIRI"
+author: "Oussama Ennadafy"
 date: "Juillet 2026"
 lang: fr
 ---
@@ -17,7 +17,7 @@ lang: fr
 
 | | |
 |---|---|
-| **Réalisé par** | Abdallah ATGUIRI |
+| **Réalisé par** | Oussama Ennadafy |
 | **Module** | Programmation Orientée Objet — Java |
 | **Date** | Juillet 2026 |
 | **Technologies** | Java 17 · Swing · JDBC · SQLite · Maven |
@@ -623,7 +623,7 @@ bash run.sh                              # Script alternatif (sans Maven)
 
 ## 15. Conclusion
 
-Le projet **G-Lab**, réalisé par **Abdallah ATGUIRI**, constitue une démonstration concrète et complète des principes fondamentaux de la programmation orientée objet appliqués à un cas métier réel.
+Le projet **G-Lab**, réalisé par **Oussama Ennadafy**, constitue une démonstration concrète et complète des principes fondamentaux de la programmation orientée objet appliqués à un cas métier réel.
 
 **Ce qui a été démontré :**
 
@@ -684,7 +684,7 @@ Projet final G-Lab/
 
 <div align="center">
 
-**Abdallah ATGUIRI**  
+**Oussama Ennadafy**  
 *Projet G-Lab — Juillet 2026*
 
 *Fin du rapport*

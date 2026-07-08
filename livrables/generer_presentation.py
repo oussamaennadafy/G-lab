@@ -25,7 +25,7 @@ from pptx.enum.text import PP_ALIGN, MSO_ANCHOR
 from pptx.enum.shapes import MSO_SHAPE
 
 OUTPUT = "livrables/Presentation_G-Lab.pptx"
-AUTEUR = "Abdallah ATGUIRI"
+AUTEUR = "Oussama Ennadafy"
 PROJET = "G-Lab"
 DATE = "Juillet 2026"
 
