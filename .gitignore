@@ -1,0 +1,16 @@
+# Dépendances locales (téléchargées si Maven indisponible)
+lib/
+
+# Build Maven
+target/
+
+# Base de données SQLite locale
+glab_parc.db
+glab_parc.db-journal
+
+# Fichiers temporaires
+sources.txt
+*.class
+
+# Environnement Python (génération présentation)
+.venv-pptx/
